@@ -1,7 +1,5 @@
 # AI-Generated News Text Detection: Generalisation to Unseen LLMs
 
-UTS Machine Learning, Assignment A2/A3 project (Option 2: practical machine learning system).
-
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/<GITHUB_USERNAME>/<REPO_NAME>/blob/main/main.ipynb)
 
 ## Task
