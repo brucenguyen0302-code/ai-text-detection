@@ -1,0 +1,28 @@
+# Data (downloaded automatically by the notebook; too large for GitHub)
+data/
+*.parquet
+*.arrow
+
+# Model checkpoints and training outputs (large; stored on Google Drive instead)
+checkpoints/
+outputs/
+runs/
+*.pt
+*.pth
+*.bin
+*.safetensors
+*.ckpt
+
+# Python / Jupyter clutter
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# OS / editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Secrets
+.env
