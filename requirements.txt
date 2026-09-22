@@ -1,0 +1,9 @@
+# Core dependencies. Exact versions will be pinned after the first full Colab run
+# (using the versions reported by `pip freeze` there), so results are reproducible.
+datasets
+pandas
+numpy
+scikit-learn
+torch
+transformers
+matplotlib
