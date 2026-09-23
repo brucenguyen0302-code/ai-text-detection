@@ -1,0 +1,5 @@
+words,seen_norm_AUROC,seen_norm_TPR@1%,seen_raw_AUROC,seen_raw_TPR@1%,logo_AUROC_mean,logo_AUROC_worst,logo_TPR@1%_mean,logo_TPR@1%_worst,logo_worst_LLM
+25,0.9849,0.7914,1.0,0.9997,0.9798,0.9661,0.7442,0.5674,gemma
+50,0.9965,0.928,1.0,1.0,0.9946,0.9908,0.9009,0.8284,gemma
+100,0.9992,0.9793,1.0,0.9997,0.9981,0.9943,0.9627,0.9116,qwen
+200,0.9996,0.9927,0.9999,0.9997,0.9992,0.9969,0.9856,0.9548,qwen
