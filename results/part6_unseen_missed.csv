@@ -1,0 +1,7 @@
+,TF-IDF missed,DistilBERT missed,AI texts in test,missed by both
+gemma,98,4,571,4
+mistral,9,0,509,0
+qwen,87,6,509,4
+llama,46,10,502,7
+yi,35,1,488,1
+gpt4o,40,2,561,2
