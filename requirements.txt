@@ -1,9 +1,14 @@
-# Core dependencies. Exact versions will be pinned after the first full Colab run
-# (using the versions reported by `pip freeze` there), so results are reproducible.
-datasets
-pandas
-numpy
-scikit-learn
-torch
-transformers
-matplotlib
+# Versions of the Google Colab environment used for the reported results
+# (Python 3, Colab T4 GPU runtime, September 2026).
+datasets==4.8.5
+pandas==2.2.3
+numpy==2.1.3
+scikit-learn==1.6.1
+transformers==5.16.1
+matplotlib==3.10.0
+pyarrow==23.0.1
+
+# torch was 2.11.0+cu128 in Colab (CUDA 12.8 build preinstalled by Colab).
+# Outside Colab, install the build that matches the local CUDA version, e.g.
+#   pip install torch==2.11.0
+torch==2.11.0
