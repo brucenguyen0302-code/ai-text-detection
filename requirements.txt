@@ -1,10 +1,18 @@
-python               3.13.15
-datasets               4.8.5
-pandas                 2.2.3
-numpy                  2.1.3
-scikit-learn           1.6.1
-transformers          5.16.1
-matplotlib            3.10.0
-pyarrow               23.0.1
-torch           2.11.0+cu128
-gpu                 Tesla T4
+# Environment used for the reported results. These versions are not asserted:
+# they are printed by the last cell of the notebook and saved to
+# results/environment.csv, so they can be checked against this file.
+#
+# Google Colab, Python 3.13.15, Tesla T4 GPU, September 2026.
+
+datasets==4.8.5
+pandas==2.2.3
+numpy==2.1.3
+scikit-learn==1.6.1
+transformers==5.16.1
+matplotlib==3.10.0
+pyarrow==23.0.1          # used indirectly by pandas for the .parquet dataset cache
+
+# torch was 2.11.0+cu128 in Colab (CUDA 12.8 build preinstalled by Colab).
+# Outside Colab, install the build that matches the local CUDA version, e.g.
+#   pip install torch==2.11.0
+torch==2.11.0
