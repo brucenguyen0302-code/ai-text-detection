@@ -1,0 +1,1 @@
+{"tag": "ep2_lr3e-05_b32_s43", "lr": 3e-05, "epochs": 2, "batch_size": 32, "seed": 43, "best_epoch": 2, "minutes": 1.9880120635032654, "val_AUROC": 0.9954583596360221, "val_TPR@1%": 0.8945634266886326}

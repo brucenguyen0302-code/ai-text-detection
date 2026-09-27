@@ -1,0 +1,1 @@
+{"tag": "lr2e-05", "lr": 2e-05, "epochs": 3, "batch_size": 32, "seed": 42, "best_epoch": 2, "minutes": 2.8972772399584454, "val_AUROC": 0.9962566783168332, "val_TPR@1%": 0.9113673805601318}

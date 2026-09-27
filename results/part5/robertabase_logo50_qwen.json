@@ -1,0 +1,1 @@
+{"name": "robertabase_logo50_qwen", "held_out": "qwen", "best_epoch": 2, "minutes_total": 4.505672880013784, "test": {"AUROC": 0.9999394780212106, "TPR@FPR<=1%": 0.9980353634577603, "test_FPR_at_tau": 0.011848341232227487, "recall_AI_at_tau": 0.9980353634577603, "precision_AI_at_tau": 0.9902534113060428, "F1_AI_at_tau": 0.9941291585127201, "accuracy_at_tau": 0.9935553168635876}}

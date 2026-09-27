@@ -1,0 +1,1 @@
+{"name": "robertabase_logo50_llama", "held_out": "llama", "best_epoch": 2, "minutes_total": 4.62162960767746, "test": {"AUROC": 0.998614546553124, "TPR@FPR<=1%": 0.9701195219123506, "test_FPR_at_tau": 0.004739336492890996, "recall_AI_at_tau": 0.9661354581673307, "precision_AI_at_tau": 0.9958932238193019, "F1_AI_at_tau": 0.980788675429727, "accuracy_at_tau": 0.9794372294372294}}

@@ -1,0 +1,7 @@
+,zero-shot AUROC,TF-IDF AUROC (unseen),DistilBERT AUROC (unseen)
+gemma,0.6277,0.9908,0.9996
+mistral,0.7353,0.9989,1.0
+qwen,0.8203,0.9905,0.9992
+llama,0.6805,0.9946,0.9992
+yi,0.7413,0.996,0.9999
+gpt4o,0.6369,0.9956,0.9999

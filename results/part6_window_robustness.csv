@@ -1,0 +1,4 @@
+,AUROC,TPR@FPR<=1%
+words 0-200 (the model input),0.9997,0.9917
+words 200-400,0.9988,0.9726
+average of both chunks,0.9998,0.9953

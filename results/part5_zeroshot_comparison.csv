@@ -1,0 +1,4 @@
+,AUROC,TPR@FPR<=1%
+zero-shot GPT-2,0.7041,0.0121
+TF-IDF + LR (seen),0.9964,0.9325
+DistilBERT (seen),0.9999,0.9987

@@ -1,0 +1,1 @@
+{"tag": "confirm_lr3e-05_b16_s42", "lr": 3e-05, "epochs": 3, "batch_size": 16, "seed": 42, "best_epoch": 2, "minutes": 4.720330655574799, "val_AUROC": 0.9972536143743553, "val_TPR@1%": 0.9410214168039539}
