@@ -1,0 +1,3 @@
+operating point,TF-IDF,DistilBERT,gap,TF-IDF misses,DistilBERT misses,miss reduction
+FPR <= 1%,0.8898,0.9926,0.1028,0.1102,0.0074,0.933
+FPR <= 5%,0.9694,0.9994,0.0299,0.0306,0.0006,0.9797
